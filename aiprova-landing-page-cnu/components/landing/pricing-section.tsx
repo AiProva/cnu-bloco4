@@ -16,8 +16,8 @@ export default function PricingSection() {
               <div className="flex items-center space-x-3">
                 <Gift className="w-8 h-8 flex-shrink-0" />
                 <div>
-                  <h3 className="text-xl font-bold">CNU - Bloco 6</h3>
-                  <p className="text-sm opacity-80">+ PLANO ANUAL AIPROVA</p>
+                  <h3 className="text-xl font-bold">CNU - Bloco 4</h3>
+                  <p className="text-sm opacity-80">+ PLATAFORMA AIPROVA!</p>
                 </div>
               </div>
               <div className="bg-yellow-400 text-deep-blue px-3 py-1 rounded-full text-xs font-bold shadow-lg flex-shrink-0">
@@ -51,7 +51,7 @@ export default function PricingSection() {
               <span>50% OFF Acaba a qualquer momento!</span>
             </div>
 
-            <a href="https://pay.kiwify.com.br/dMFc6KA" target="_blank" rel="noopener noreferrer" className="block">
+            <a href="https://pay.kiwify.com.br/XJkXgGz" target="_blank" rel="noopener noreferrer" className="block">
               <Button
                 size="lg"
                 className="w-full mt-4 h-12 bg-white text-ai-blue font-bold text-base rounded-xl shadow-lg hover:bg-gray-100 hover:scale-105 transition-transform"

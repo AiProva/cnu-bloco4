@@ -12,9 +12,9 @@ const sora = Sora({
 })
 
 export const metadata: Metadata = {
-  title: "AiProva! - Bloco 6 (CNU) - Acelere sua Aprovação",
+  title: "AiProva! - Bloco 4 (CNU) - Acelere sua Aprovação",
   description:
-    "Estude com mais de 5.000 flashcards prontos focados no Bloco 6 do Concurso Nacional Unificado e acelere a sua aprovação.",
+    "Estude com mais de 5.000 flashcards prontos focados no Bloco 4 do Concurso Nacional Unificado e acelere a sua aprovação.",
     generator: 'v0.dev'
 }
 

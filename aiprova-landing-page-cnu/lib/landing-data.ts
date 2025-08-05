@@ -1,8 +1,8 @@
 // Manter os dados centralizados melhora a organização e a reutilização.
 
-export const CONCURSO_NOME = "Bloco 6"
+export const CONCURSO_NOME = "Bloco 4"
 export const FLASHCARD_COUNT = "3.500"
-export const FLASHCARD_COUNT_TITLE = "3.556"
+export const FLASHCARD_COUNT_TITLE = "3.521"
 export const HERO_SUBTITLE = "Desenvolvimento Socieconômico. Serão 285 vagas e remunerações iniciais de até R$ 16 mil."
 
 export const materias = [
@@ -12,28 +12,28 @@ export const materias = [
     subsections: [],
   },
   {
-    name: "Eixo Temático 1 – Desenvolvimento, sustentabilidade e inclusão",
+    name: "Eixo Temático 1 – Gestão de obras e serviços de engenharia",
+    count: 248,
+    subsections: [],
+  },
+  {
+    name: "Eixo Temático 2 – Planejamento territorial",
+    count: 215,
+    subsections: [],
+  },
+  {
+    name: "Eixo Temático 3 – Planejamento e projetos de obras",
+    count: 226,
+    subsections: [],
+  },
+  {
+    name: "Eixo Temático 4 – Agrário e pesqueiro",
+    count: 187,
+    subsections: [],
+  },
+  {
+    name: "Eixo Temático 5 – Sustentabilidade e patrimônio cultural",
     count: 247,
-    subsections: [],
-  },
-  {
-    name: "Eixo Temático 2 – Desenvolvimento produtivo e regional no Brasil",
-    count: 219,
-    subsections: [],
-  },
-  {
-    name: "Eixo Temático 3 – Gestão estratégica e regulação",
-    count: 218,
-    subsections: [],
-  },
-  {
-    name: "Eixo Temático 4 – Desenvolvimento socioeconômico no Brasil",
-    count: 246,
-    subsections: [],
-  },
-  {
-    name: "Eixo Temático 5 – Desigualdades e dinâmicas socioeconômicas no Brasil",
-    count: 228,
     subsections: [],
   },
 ]
