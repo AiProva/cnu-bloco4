@@ -25,7 +25,7 @@ export function DetailsSection() {
             <h2 className="text-2xl font-bold text-ai-blue">O Poderosíssimo AiProva</h2>
           </div>
           <h3 className="text-2xl font-semibold text-deep-blue">
-            Flashcards para o Bloco Temático 6: Desenvolvimento Socieconômico
+            Flashcards para o Bloco Temático 4: Engenharias e Arquitetura
           </h3>
           <h1 className="text-5xl font-extrabold text-ai-blue">+ de {FLASHCARD_COUNT} cards para seus estudos!</h1>
           <p className="text-lg text-gray-600">para você arrebentar no CNU!</p>
